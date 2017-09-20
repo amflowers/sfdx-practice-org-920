@@ -36,10 +36,10 @@
             "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 340,
-            "modifiedTime": 1505934855000,
-            "changeTime": 1505934855000,
-            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86"
+            "size": 238,
+            "modifiedTime": 1505933038000,
+            "changeTime": 1505933038000,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
@@ -47,13 +47,14 @@
         {
             "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1505934023000,
-            "changeTime": 1505934023000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 68,
+            "modifiedTime": 1505930616000,
+            "changeTime": 1505930616000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -61,13 +62,14 @@
         {
             "sourcePath": "/Users/ashley.flowers/geolocation",
             "isDirectory": true,
-            "size": 340,
-            "modifiedTime": 1505932813000,
-            "changeTime": 1505932813000,
-            "contentHash": "7775a52ad15533779186311b6ba129ab7ae84ceb",
+            "size": 272,
+            "modifiedTime": 1505931103000,
+            "changeTime": 1505931103000,
+            "contentHash": "9f80c4a0c54275d0c05dd8b461ae5ebcb3bd8805",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -814,222 +816,40 @@
     [
         "/Users/ashley.flowers/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1505933038000,
             "changeTime": 1505933038000,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/Users/ashley.flowers/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1505933078000,
             "changeTime": 1505933078000,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
         }
     ],
     [
         "/Users/ashley.flowers/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1505933038000,
             "changeTime": 1505933038000,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator",
-        {
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "size": 272,
-            "modifiedTime": 1505934732000,
-            "changeTime": 1505934732000,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 144,
-            "modifiedTime": 1505934732000,
-            "changeTime": 1505934732000,
-            "contentHash": "41593e957491412b466bec2a6f718d074028c5f5",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1505934023000,
-            "changeTime": 1505934023000,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "size": 91,
-            "modifiedTime": 1505934745000,
-            "changeTime": 1505934745000,
-            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1505934023000,
-            "changeTime": 1505934023000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1505934023000,
-            "changeTime": 1505934023000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1505934023000,
-            "changeTime": 1505934023000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 267,
-            "modifiedTime": 1505934855000,
-            "changeTime": 1505934855000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 18236,
-            "modifiedTime": 1505934855000,
-            "changeTime": 1505934855000,
-            "contentHash": "e82a25a83e56ceba2878f9144741cbbb27eb4144"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5661,
-            "modifiedTime": 1505934855000,
-            "changeTime": 1505934855000,
-            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 6001,
-            "modifiedTime": 1505934855000,
-            "changeTime": 1505934855000,
-            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5665,
-            "modifiedTime": 1505934855000,
-            "changeTime": 1505934855000,
-            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/tabs",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1505934855000,
-            "changeTime": 1505934855000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
-        }
-    ],
-    [
-        "/Users/ashley.flowers/geolocation/force-app/main/default/profiles",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ashley.flowers/geolocation/force-app/main/default/profiles",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1505934855000,
-            "changeTime": 1505934855000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
